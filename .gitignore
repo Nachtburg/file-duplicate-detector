@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.db
+
+# Environment
+.env
+venv/
+*.egg-info/
+
+# Logs and Outputs
+*.log
+kept_files.txt
+removed_files.txt
+
+# IDEs and Editors
+*.swp
+*.sublime-workspace
+.idea/
+
+# OS-specific
+.DS_Store
+Thumbs.db
